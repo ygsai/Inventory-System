@@ -23,3 +23,5 @@ these options are represented as buttons and each button is responsible for its 
 • If the user clicks the button Logout, this window disappears and the Inventory System window reappears.  
 The user can’t close this window from the X button. The only way is to click the button Logout. if the user clicks the button Logout, then the list of products should be saved to the file "Products.txt" and the list of the purchasing operations should be saved to the file "CustomerProducts.txt" and the window disappears and the Inventory System window reappears.
 A pop message appears if any data isn't written fully or correctly.
+
+NOTICE a zip file is attached for the local date jar that has to be added for products.
